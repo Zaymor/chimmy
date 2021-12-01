@@ -1,0 +1,112 @@
+body {
+  font-family: "Merriweather", serif;
+  margin: 0;
+  text-align: center;
+}
+.top {
+  background-color: #fcfcfc;
+  position: relative;
+  padding-top: 0px;
+}
+.BUTTON_YKC {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: Open Sans;
+  font-size: 40px;
+  font-weight: 100;
+  padding: 40px;
+  background-color: #000000;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337fed 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 30px;
+}
+
+.BUTTON_YKC:hover {
+  border: solid #337fed 1px;
+  background: #ff0000;
+  background-image: -webkit-linear-gradient(top, #1e62d0, #3d94f6);
+  background-image: -moz-linear-gradient(top, #1e62d0, #3d94f6);
+  background-image: -ms-linear-gradient(top, #1e62d0, #3d94f6);
+  background-image: -o-linear-gradient(top, #1e62d0, #3d94f6);
+  background-image: -webkit-gradient(to bottom, #1e62d0, #3d94f6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.footer-link {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+hr {
+  border-color: grey;
+  border-style: dotted none none none;
+  border-width: 10px;
+  height: 0px;
+  width: 7%;
+}
+.yo {
+  width: 25%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+.middle {
+}
+.contact-me {
+  padding-bottom: 30px;
+}
+.bottom {
+  background-color: #000000;
+  height: 100px;
+  padding-top: 40px;
+}
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+.design {
+  line-height: 2;
+  text-align: left;
+}
+h1 {
+  color: #000000;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+
+  width: 10%;
+}
+h2 {
+  color: #000000;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3 {
+  color: #000000;
+  font-family: "Montserrat", sans-serif;
+}
+a {
+  color: #000000;
+}
+.bottom-cloud {
+  bottom: 300px;
+  left: 500px;
+  position: absolute;
+}
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 150px;
+}
